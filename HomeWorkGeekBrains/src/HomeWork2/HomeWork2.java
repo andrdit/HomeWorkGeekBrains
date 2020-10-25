@@ -88,8 +88,6 @@ public class HomeWork2 {
 //        int[] array = {1,2,3,4,5,6,7,8,9,10};
 //        int n = -0;
 //        displacementElements(array, n);
-
-
     }
 
     public static void reverse(int[] arr){
