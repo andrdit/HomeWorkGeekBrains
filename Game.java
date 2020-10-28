@@ -3,6 +3,17 @@ package HomeWork3;
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+ Сделал два метода проверки условия подеды:
+ public static boolean checkWhoWinХ3(char symbol) - для поля 3х3
+ public static boolean checkWhoWinХ5(char symbol) - для поля 5х5
+
+ выбор условия игры не делал,
+
+ 3-ю задачу не делал
+
+ * */
+
 public class Game {
 
     public static final char CROSS = 'X';
